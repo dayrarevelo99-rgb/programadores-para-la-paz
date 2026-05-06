@@ -1,0 +1,8 @@
+cd
+mkdir semana2
+ls
+nano preguntas-semana2.txt
+nano reflexion-semana2.txt
+nano comandos-semana2.txt
+cd programadores-para-la-paz
+cd semana2
