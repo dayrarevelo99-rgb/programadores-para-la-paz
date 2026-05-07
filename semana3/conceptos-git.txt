@@ -1,0 +1,7 @@
+Repositorio: almacena de forma segura y organizada todos los archivos de un proyecto junto con su historial completo de cambios.
+
+
+Commit: guardar un registro de los cambios que previamente se han preparado en el proyecto.
+
+Push: subir la información que se a realizado en el repositorio local al repositorio remoto 
+
