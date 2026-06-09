@@ -1,0 +1,4 @@
+{
+“tipo”: “servicio de acueducto”, 
+“descripción”: “se reporta daño de las instalaciones del acueducto veredal en la bocatoma principal hace varios días, la comunidad no cuenta con servicio de acueducto”
+} 
