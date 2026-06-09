@@ -1,0 +1,11 @@
+los ejemplos que me arrojo, son los siguientes:
+  {
+    "id": 1,
+    "tipo": "Ambiente",
+    "descripcion": "Acumulación de residuos en una zona comunitaria, cercana al rio"
+  },
+  {
+    "id": 2,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público, en la vereda"
+  },

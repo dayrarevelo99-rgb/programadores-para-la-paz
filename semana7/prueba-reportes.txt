@@ -1,0 +1,9 @@
+la respuesta obtenida es la siguiente, agregue la parte "en la vereda" para ver algun cambio y si lo realizo: 
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público, en la vereda"
+  }
+}
