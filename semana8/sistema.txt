@@ -1,0 +1,2 @@
+1. uname -a muestra informacion del sistema operativo, kernel y arquitectura. whoami muestra el usuario activo.
+2. Es util en servidores para saber si el software es compatible y que permisos tiene nuestro usuario al administrarlo.
