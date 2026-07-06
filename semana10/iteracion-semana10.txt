@@ -1,0 +1,14 @@
+Tarea 1: Diseñar y estructurar el modelo de la base de datos (Backend).
+
+Tarea 2: Crear el bot de Telegram y conectarlo al backend (o n8n) para enviar notificaciones básicas.
+
+Son importantes porque reducen el riesgo técnico y validan el núcleo del proyecto. En la metodología ágil, se busca construir primero el Mínimo Viable (MVP). Si la base de datos funciona y el canal de notificación (Telegram) responde, ya tienes un sistema que aporta valor real, aunque visualmente no sea perfecto todavía.
+
+
+que una tarea esté "terminada" va mucho más allá de que el código esté escrito en la computadora de quien lo programó. Para mí, significa que cumple con tres condiciones esenciales:
+FUNCIONA Y CUMPLE CON EL OBJETIVO
+ESTA INTEGRADA Y PROBADA
+ES UTIL Y ENTENDIBLE 
+
+
+

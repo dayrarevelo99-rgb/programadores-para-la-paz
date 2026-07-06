@@ -1,0 +1,6 @@
+Como ciudadano quiero registrar una incidencia ocurrida en el barrio para dejar evidencia del caso
+
+Como coordinador quiero recibir la alerta del nuevo reporte a traves de Telegrama
+
+Como miembro del grupo quiero consultar los reportes y hacer segumiento 
+
