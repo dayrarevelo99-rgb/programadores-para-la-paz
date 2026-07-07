@@ -1,0 +1,22 @@
+Entidad: Causa
+
+Campos principales:
+- id: 1
+- titulo: Colecta de utiles escolares
+- descripcion: se necesita colectar dinero o utlies escolares con el objetivo de que esta comunidad aporte a los niños de bajos recursos sus utiles escolares para sus estudios 
+- fecha:06/07/2026 19:05 pm
+
+Propósito:
+Guardar las causas comunitarias que serán visibles en la plataforma.
+
+
+Entidad: Apoyo
+
+Campos principales: Aportar con utiles escolares
+- id: Aporte 5
+- causa_id: 1
+- usuario: juanito23
+- fecha: 06/07/2026 19:30 pm
+
+Propósito:
+Registrar los apoyos que recibe cada causa para hacer seguimiento a la participación.
