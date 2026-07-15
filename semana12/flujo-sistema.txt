@@ -1,0 +1,5 @@
+1. el ciudadano crea una peticion 
+2. la peticion queda debidamente registrada en la base de datos de la comunidad
+3. otros ciudadanos interactuan y apoyan la peticion 
+5. el sistema numera los apoyos
+6. el sistema genera el respectivo documento PDF de peticion 

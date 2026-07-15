@@ -1,0 +1,10 @@
+Evento:ciudadano registra apoyo a una causa y se detecta el registro 
+Mensaje: LA COMUNIDAD SIGUE SUMANDO FUERZAS 
+Informacion que no debe enviarse: 
+1. El nombre completo o apellidos de la persona que firmó.
+
+2. Su número de documento de identidad (cédula o DNI).
+
+3. Su correo electrónico, dirección física o número telefónico.
+
+4. Comentarios de carácter privado u opiniones de índole sensible.
